@@ -1,4 +1,6 @@
 # meetup
+
+[![Join the chat at https://gitter.im/NervanaSystems/meetup](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/NervanaSystems/meetup?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ipython notebooks for Nervana's San Diego meetup
 
 ## Installation
