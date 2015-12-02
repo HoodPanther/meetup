@@ -7,7 +7,7 @@ The notebooks require neon and all its dependencies to be installed (See [here](
 
 `pip install ipython jupyter matplotlib`
 
-Make sure you have the [IMDB dataset](https://s3-us-west-1.amazonaws.com/nervana-meetup/labeledTrainData.tsv) (right click and download) in the meetup folder, and run the notebook server
+And git clone this repository. Make sure you have the [IMDB dataset](https://s3-us-west-1.amazonaws.com/nervana-meetup/labeledTrainData.tsv) (right click and download) in the meetup folder. Then `cd` to the meetup reository folder and run the notebook server
 
 `ipython notebook --ip 0.0.0.0`
 
