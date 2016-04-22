@@ -6,7 +6,7 @@ ipython notebooks for Nervana's Deep Learning Meetup
 
 ## Installation
 
-The notebooks require neon and all its dependencies to be installed (See [here](http://neon.nervanasys.com/docs/latest/user_guide.html#installation) for instructions). After activating the neon environment, (i.e. `. .venv/bin/activate` from the neon directory), install these additional packages:
+The notebooks require neon and all its dependencies to be installed (See [here](http://neon.nervanasys.com/docs/latest/installation.html) for instructions). After activating the neon environment, (i.e. `. .venv/bin/activate` from the neon directory), install these additional packages:
 
 `pip install ipython jupyter matplotlib`
 
