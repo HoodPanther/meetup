@@ -13,5 +13,6 @@ chmod u-w cifar_example.ipynb
 chmod u-w imdb_example.ipynb
 
 # launch notebook server
-ipython notebook --ip 0.0.0.0 --no-browser
+# using config file rather than cmd line opts
+jupyter-notebook
 
